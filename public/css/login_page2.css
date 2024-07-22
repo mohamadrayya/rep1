@@ -1,0 +1,100 @@
+
+
+html,
+body {
+    background-color: #dedddd;
+}
+
+
+.parent {
+    width: 80%;
+    height: 90%;
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+
+}
+
+
+
+
+.left_item {
+    background-color: rgb(255, 255, 255);
+    height: 90vh;
+    /* padding-top: 7%; */
+    /* padding-bottom: 3%; */
+    display: grid;
+    text-align: center;
+}
+
+.left_content {
+    background-color: rgb(255, 255, 255);
+    padding-top: 15%;
+    padding-bottom: 7%;
+    margin: 12px;
+
+}
+
+.text_style {
+    /* padding-left: 50px; */
+}
+
+
+/* .style_button {
+    text-align: center;
+    color: white;
+} */
+
+/* .button1 {
+    background: radial-gradient(circle at 10% 50.5%, rgb(255, 107, 6) 0%, rgb(255, 1, 107) 90%);
+
+
+
+   
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+
+    border-radius: 5px;
+} */
+
+
+/* ----------------------- Login Page Right style  ------------------- */
+
+.right_item {
+    background: radial-gradient(circle at 10% 50.5%, rgb(255, 107, 6) 0%, rgb(255, 1, 107) 90%);
+
+    height: 90vh;
+    padding-top: 7%;
+    padding-bottom: 7%;
+    display: grid;
+    text-align: center;
+}
+
+.child_div {
+    /* background: rgba(128, 128, 128, 0); */
+    height: 50 vh;
+    width: 50 vw;
+    border: 2 px solid white;
+    padding-top: 25%;
+    padding-bottom: 25%;
+    text-align: left;
+    color: white;
+    /* padding-left: 8%; */
+    /* padding-right: 8%; */
+    
+}
+
+/* ------------------------------------------ */
+
+
+
+

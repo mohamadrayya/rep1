@@ -1,0 +1,41 @@
+.side_bar {
+    background-color: #616161;
+    color: #ffffff;
+    text-align: center;
+}
+
+.menu_item {
+    padding: 8px;
+    margin: 8px 0;
+    border-radius: 5px;
+    color: #000;
+
+}
+
+.menu_item:hover {
+    background-color: #BDBDBD;
+    color: #000;
+
+}
+
+.menu_item_active {
+    background-color: #BDBDBD;
+    color: #000;
+
+}
+
+.menu_item i {
+    color: #E65100;
+}
+
+a {
+    text-decoration: none;
+}
+
+
+
+
+
+
+
+
